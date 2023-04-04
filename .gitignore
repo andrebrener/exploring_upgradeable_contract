@@ -1,0 +1,10 @@
+node_modules
+cache
+artifacts
+package-lock.json
+data/
+deployment.json
+.openzeppelin/
+
+.env
+.DS_Store
